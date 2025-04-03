@@ -6,7 +6,7 @@
   "id": "did:web:FahdAzouz.github.io:certify-local:colab-environment",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkqQ5T1mu1rDbEx7wBf6AZZEuiFemZTJTnrGebgn7P4Z81",
+      "publicKeyMultibase": "z6MkqiHmiSbk5z4FyTaMF87tYR54f7PDVRVf4CjA1QPV5RLm",
       "controller": "did:web:FahdAzouz.github.io:certify-local:colab-environment",
       "id": "did:web:FahdAzouz.github.io:certify-local:colab-environment",
       "type": "Ed25519VerificationKey2020",
